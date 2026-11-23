@@ -1,8 +1,10 @@
-# Projetos do tutorial Redis e filas
+# Conteúdo executável do tutorial
 
-Os dois projetos práticos descritos no README principal estão nas pastas:
+O tutorial completo está no [README principal](README.md). O código e as atividades estão organizados assim:
 
+- [Exemplos das seções 5 a 9 e 11](exemplos/README.md): estruturas de dados, Lists, prioridade, atraso, Streams, node-redis e BullMQ.
+- [Exercícios propostos da seção 14](exercicios/README.md): os 12 enunciados, com referências aos exemplos e projetos.
 - [Fila de e-mails](filas-redis/README.md): API Express, Redis, workers, retentativas e fila de falhas.
 - [Extração de texto de PDFs](pdf-fila/README.md): upload web, jobs no Redis, progresso, extração por página e monitor Pub/Sub.
 
-Cada projeto tem seu próprio `package.json` e pode ser instalado e executado de forma independente. Consulte o README de cada pasta para instruções.
+Cada projeto prático tem seu próprio `package.json`; a pasta `exemplos/` também instala dependências de forma independente.
