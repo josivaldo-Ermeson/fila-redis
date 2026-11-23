@@ -1,0 +1,7 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+resultados/*
+!resultados/.gitkeep
+amostras/*.pdf
