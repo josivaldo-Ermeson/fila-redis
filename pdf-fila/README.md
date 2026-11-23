@@ -30,4 +30,4 @@ Abra http://localhost:3000 e envie PDFs da pasta `amostras/`. Cada arquivo pode 
 
 Para pular a pausa didática entre páginas, defina `ATRASO_POR_PAGINA_MS=0`. Para outro Redis, defina `REDIS_URL`.
 
-Os PDFs de exemplo são gerados localmente por `npm run samples`, pois os arquivos binários não são gravados diretamente pelo plugin.
+Quatro PDFs de exemplo já estão em `amostras/`. O gerador `npm run samples` recria três PDFs válidos e o arquivo corrompido.
