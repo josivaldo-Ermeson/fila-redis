@@ -1,0 +1,11 @@
+{
+  "name": "exemplos-filas-redis",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "bullmq": "6.7.0",
+    "ioredis": "6.0.0",
+    "redis": "6.3.1"
+  }
+}
