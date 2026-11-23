@@ -1,5 +1,8 @@
 # Tutorial: Redis, Filas e JavaScript
 
+> **Arquivos deste tutorial:** [exemplos](exemplos/README.md) · [exercícios](exercicios/README.md) · [projeto de e-mails](filas-redis/README.md) · [projeto de PDFs](pdf-fila/README.md)
+
+
 ## 1. Apresentação
 
 Ao final deste tutorial, você terá usado o Redis como servidor de filas e construído, em JavaScript, uma aplicação produtor/consumidor que não perde tarefas quando o worker cai.
